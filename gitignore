@@ -1,0 +1,59 @@
+
+# Node.js
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.Python
+venv/
+.env
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Linux
+*.swp
+
+# Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts
+build/
+dist/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Miscellaneous
+.env
+.DS_Store
+.autopush_last_hash
+.DS_Store
+.env
+.env.local
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
